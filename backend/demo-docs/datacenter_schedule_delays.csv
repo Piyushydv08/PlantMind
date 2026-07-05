@@ -1,0 +1,6 @@
+Activity ID,Task Name,Baseline Duration (Days),Current Status,Critical Path?,Multi-Tier Supply Risk Trigger,Expected Actual Delay
+TSK-EL-094,Install 33kV Substation Switchgear,22,Not Started,Yes,German factory logistics strike affecting Siemens/ABB components,+45 Days
+TSK-ME-142,Commissioning of CRAH Units (Data Hall A),14,In Progress,No,"Local customs clearance bottleneck at Nhava Sheva Port, Mumbai",+12 Days
+TSK-IT-010,Structured Cabling & Containment,30,Not Started,No,Labor availability drop due to local festive season in Q4,+5 Days
+TSK-ME-085,Installation of Chilled Water Pipe Loops,40,In Progress,Yes,Pipe welding quality check failure leading to rework,+20 Days
+TSK-EL-201,Testing and Balancing of UPS Strings,10,Not Started,Yes,Lead-acid battery bank shipping delayed due to maritime congestion,+30 Days

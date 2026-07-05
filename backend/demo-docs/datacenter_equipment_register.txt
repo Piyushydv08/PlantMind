@@ -1,0 +1,13 @@
+EQUIPMENT REGISTER - DATA HALL B & MEP INFRASTRUCTURE (60MW HYPERSCALE FACILITY)
+
+Tag | Description | Capacity | Fluid handled | Installation date | Last inspection | Next due | Condition
+BLR-DC01-UPS-2B-04 | Double-Conversion Online UPS | 2000 kVA | N/A | 2023-05-10 | 2024-03-10 | 2025-03-10 | Good
+BLR-DC01-CHL-1A-01 | Water-Cooled Centrifugal Chiller | 1500 TR | Water/Glycol | 2022-11-20 | 2023-11-20 | 2024-11-20 | Overdue for inspection
+BLR-DC01-CRAH-3A-08 | Computer Room Air Handler | 150 kW | Chilled Water | 2023-03-05 | 2024-05-15 | 2025-05-15 | Fair
+BLR-DC01-GEN-1B-02 | Emergency Standby Diesel Generator | 2500 kVA | Diesel Fuel | 2022-09-12 | 2024-06-12 | 2024-12-12 | Requires Monitoring (Starter battery weak)
+BLR-DC01-SWG-33KV | 33kV Substation Switchgear | 33 kV | SF6 Gas | 2023-01-20 | 2024-01-20 | 2025-01-20 | Excellent
+BLR-DC01-STS-1A-01 | Static Transfer Switch | 400 A | N/A | 2023-06-14 | 2024-06-14 | 2025-06-14 | Good
+BLR-DC01-PDU-2B-03 | Power Distribution Unit | 600 kVA | N/A | 2023-04-18 | 2024-04-18 | 2025-04-18 | Good
+BLR-DC01-HEX-1A-02 | Plate Heat Exchanger | 5000 kW | Water/Water | 2022-11-22 | 2024-02-15 | 2025-02-15 | Good
+BLR-DC01-CTW-1B-03 | Induced Draft Cooling Tower | 1800 TR | Cooling Water | 2022-11-25 | 2023-11-25 | 2024-11-25 | Overdue for inspection
+BLR-DC01-CRAC-2A-01 | Direct Expansion CRAC Unit | 80 kW | R410A Refrigerant | 2023-02-10 | 2024-08-10 | 2025-08-10 | Minor fan belt wear

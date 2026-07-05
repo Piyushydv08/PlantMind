@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+
+# Temp uploads directory
+uploads/*
+!uploads/.gitkeep
+
+# System and logs
+*.log
+npm-debug.log*
+.DS_Store

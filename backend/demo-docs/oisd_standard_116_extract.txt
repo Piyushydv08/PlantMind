@@ -1,0 +1,40 @@
+OISD-STANDARD-116 (EXTRACT)
+OPERATING STANDARDS FOR PETROLEUM INSTALLATIONS
+
+1. Scope
+This standard applies to the safe operation, maintenance, and inspection of rotating and static equipment in petroleum refineries, oil terminals, and gas processing plants in India.
+
+2. Inspection Intervals
+To ensure mechanical integrity, the following minimum inspection frequencies shall be strictly adhered to:
+
+Pumps (Centrifugal and Positive Displacement):
+- Monthly: Visual inspection for leaks, abnormal noise, and oil levels.
+- Quarterly: Vibration signature analysis and thermal imaging of bearings.
+- Annual: Complete mechanical overhaul, clearance checks, and seal inspection.
+
+Compressors (Centrifugal and Reciprocating):
+- Weekly: Lube oil sampling and analysis.
+- Monthly: Performance mapping and valve temperature checks.
+- Bi-annual: Internal inspection of valves, riders, and intercoolers.
+
+Heat Exchangers:
+- Quarterly: Fouling factor calculation and thermal performance review.
+- Annual: Tube bundle extraction, cleaning, and hydro test.
+
+3. Permit-to-Work (PTW) Requirements
+No maintenance or inspection work shall commence without a valid PTW.
+- Hot Work Permit: Required for any activity generating heat or sparks (welding, grinding) in hazardous zones. Requires continuous gas monitoring (LEL < 1%).
+- Confined Space Entry: Required for entering vessels, tanks, or deep trenches. Requires oxygen level > 19.5%, H2S < 10 ppm, and a standby man.
+- Cold Work Permit: Required for routine mechanical work not generating sparks.
+
+4. Documentation Requirements
+All inspections and maintenance activities must be logged in the Computerized Maintenance Management System (CMMS) within 24 hours of completion. The root cause analysis (RCA) is mandatory for any equipment failure causing >4 hours of downtime.
+
+5. Emergency Procedures
+Every facility shall have a site-specific Disaster Management Plan (DMP). Operators must be trained on emergency shutdown (ESD) systems. Mock drills shall be conducted quarterly.
+
+6. Statutory Compliance
+All operations must comply with:
+- The Petroleum Act, 1934 and Petroleum Rules, 2002.
+- The Factories Act, 1948.
+- Guidelines issued by the Petroleum and Explosives Safety Organization (PESO) and Directorate General of Mines Safety (DGMS).

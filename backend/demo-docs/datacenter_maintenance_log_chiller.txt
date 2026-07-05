@@ -1,0 +1,27 @@
+MAINTENANCE WORK ORDER LOG - CHILLER SYSTEM
+Equipment: BLR-DC01-CHL-1A-01 (Water-Cooled Centrifugal Chiller)
+Location: Central Plant, BLR-DC01 Bengaluru
+
+WO#: DC-89201 | Date: 2023-04-12
+Reported by: BMS Monitor | Technician: S. Kumar
+Symptoms: High condenser approach temperature (4.2°C, limit 2.5°C).
+Actions taken: Inspected tubes. Found significant biological fouling. Brushed tubes, cleaned condenser water sump. Chemical treatment adjusted.
+Parts replaced: Gaskets, Tube cleaning brushes
+Hours taken: 14.5
+Status: Closed
+
+WO#: DC-89410 | Date: 2023-08-15
+Reported by: Daily Round | Technician: R. Gowda
+Symptoms: Oil level in sight glass low. Oil temperature rising.
+Actions taken: Drained system, changed oil filter and replaced compressor oil. Leak tested fittings. No active leak found.
+Parts replaced: Compressor Oil (POE 120), Oil Filter
+Hours taken: 6.0
+Status: Closed
+
+WO#: DC-89750 | Date: 2024-02-28
+Reported by: Preventive Maintenance | Technician: J. Doe
+Symptoms: Annual service and inspection check.
+Actions taken: Calibration of all thermistors and pressure transmitters. Megger testing of compressor motor windings (passed, >50M ohms). Verified purge system functionality.
+Parts replaced: O-rings, Purge valve kit
+Hours taken: 18.0
+Status: Closed

@@ -1,0 +1,23 @@
+EQUIPMENT REGISTER - PLANT A (CRUDE DISTILLATION UNIT)
+
+Tag | Description | Capacity | Fluid handled | Installation date | Last inspection | Next due | Condition
+P-101 | Crude Charge Pump | 350 m3/hr | Crude Oil | 2015-05-10 | 2024-02-15 | 2025-02-15 | Good
+P-102 | Crude Charge Pump (Standby) | 350 m3/hr | Crude Oil | 2015-05-10 | 2024-02-16 | 2025-02-16 | Good
+P-201 | Feed Pump | 120 m3/hr | Naphtha | 2018-11-20 | 2024-08-20 | 2025-08-20 | Requires Monitoring (Recent impeller change)
+P-202 | Reflux Pump | 85 m3/hr | Kerosene | 2016-03-05 | 2024-01-10 | 2025-01-10 | Good
+P-203 | Bottoms Transfer Pump | 210 m3/hr | Heavy Fuel Oil | 2017-09-12 | 2023-11-05 | 2024-11-05 | Overdue for inspection
+P-204 | Sour Water Pump | 45 m3/hr | Sour Water | 2019-07-22 | 2024-06-30 | 2025-06-30 | Fair
+P-205 | Amine Circulation Pump | 90 m3/hr | Lean Amine | 2016-08-14 | 2024-04-12 | 2025-04-12 | Good
+
+HE-101 | Crude Pre-heater 1 | 5.5 MW | Crude / Residue | 2015-05-15 | 2023-12-01 | 2024-12-01 | Fouled, scheduled for cleaning
+HE-102 | Crude Pre-heater 2 | 5.5 MW | Crude / Residue | 2015-05-15 | 2023-12-05 | 2024-12-05 | Fair
+HE-103 | Overhead Condenser | 8.2 MW | Naphtha Vapor / CW | 2016-02-20 | 2024-03-15 | 2025-03-15 | Good
+HE-104 | Product Cooler | 3.1 MW | Kerosene / CW | 2017-10-10 | 2024-05-20 | 2025-05-20 | Minor tube leaks repaired
+
+C-301 | Recycle Gas Compressor | 1500 Nm3/hr | Hydrogen mix | 2018-01-25 | 2024-07-10 | 2025-07-10 | Excellent
+C-302 | Flare Gas Recovery Compressor | 500 Nm3/hr | Flare Gas | 2019-04-18 | 2024-09-05 | 2025-09-05 | Good
+
+V-101 | Crude Desalter | 1200 m3 | Crude Oil / Water | 2015-06-01 | 2022-10-15 | 2027-10-15 | Good
+V-102 | Reflux Drum | 45 m3 | Naphtha / Water | 2016-02-25 | 2021-11-20 | 2026-11-20 | Good
+
+E-201 | P-201 Drive Motor | 75 kW | N/A | 2018-11-20 | 2024-06-15 | 2025-06-15 | Good

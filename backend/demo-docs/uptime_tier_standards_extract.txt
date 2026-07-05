@@ -1,0 +1,12 @@
+UPTIME INSTITUTE TIER IV STANDARDS & GUIDELINES EXCERPT
+Reference: Tier Standard: Topology - Fault Tolerant Power & Cooling Infrastructure
+
+1. REDUNDANCY & CAPACITY REQUIREMENTS
+A Tier IV data center requires concurrent maintainability and fault tolerance. This means that a single failure of any capacity component or distribution path (e.g., electrical circuit, cooling line) will NOT impact the critical IT load.
+- Electrical Power: Must feature 2N+1 active power paths, with separate UPS systems, static transfer switches (STS), and power distribution units (PDU). Lead-acid batteries (VRLA) are discouraged for mission-critical paths due to single-point-of-failure thermal risks; Lithium-Ion (LFP) chemistries with integrated Battery Management Systems (BMS) are mandatory for Tier IV certification under Clause 26.3.2.
+- Cooling Infrastructure: Active continuous cooling must be maintained during utility outages. Chilled water plants must feature thermal storage tanks capable of sustaining full cooling capacity for at least 15 minutes while standby generators startup and stabilize.
+
+2. ENVIROMENTAL LIMITS (ASHRAE TC 9.9)
+All data halls must comply with ASHRAE TC 9.9 Class A1 guidelines:
+- Temperature Range: 18°C to 27°C (recommended supply air temperature in cold aisle).
+- Humidity Limits: 20% to 80% relative humidity, with dew points under 17°C to prevent condensation and corrosion.

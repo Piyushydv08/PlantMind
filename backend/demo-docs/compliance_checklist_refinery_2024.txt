@@ -1,0 +1,30 @@
+ANNUAL COMPLIANCE CHECKLIST - 2024
+Facility: Mumbai Refinery Complex
+
+Category: Factory Act Compliance
+1. Safety committee meetings held monthly | Status: Compliant | Checked: 2024-11-01 | Officer: R. Sharma
+2. Hoists and lifts examined every 6 months | Status: Compliant | Checked: 2024-10-15 | Officer: V. Gupta
+3. Pressure plant tested as per Section 31 | Status: Compliant | Checked: 2024-09-20 | Officer: M. Singh
+4. Adequate lighting and ventilation maintained | Status: Compliant | Checked: 2024-11-05 | Officer: S. Patel
+5. Drinking water points clearly marked | Status: Compliant | Checked: 2024-11-05 | Officer: S. Patel
+6. First aid boxes equipped and accessible | Status: Partial (Box at CDU missing burn cream) | Checked: 2024-11-10 | Officer: Dr. A. Kumar
+7. Canteens maintained for >250 workers | Status: Compliant | Checked: 2024-08-01 | Officer: HR Dept
+8. Firefighting equipment inspected | Status: Partial (Extinguisher at pump bay expired) | Checked: 2024-11-12 | Officer: Fire Chief
+9. Worker health checkups completed | Status: Compliant | Checked: 2024-06-30 | Officer: Dr. A. Kumar
+10. Hazardous process disclosure to workers | Status: Compliant | Checked: 2024-01-15 | Officer: R. Sharma
+
+Category: OISD Standards Compliance
+11. OISD-116 Operating procedures updated | Status: Partial (Compressor SOP pending update) | Checked: 2024-10-10 | Officer: V. Gupta
+12. OISD-144 Permit to work system audited | Status: Compliant | Checked: 2024-09-05 | Officer: R. Sharma
+13. OISD-129 Electrical installations inspected | Status: Non-compliant (Earth pit resistance high at Substation A) | Checked: 2024-11-02 | Officer: E. Raj
+14. OISD-117 Fire protection facilities tested | Status: Compliant | Checked: 2024-10-25 | Officer: Fire Chief
+15. OISD-156 Fire rolling shutters operational | Status: Compliant | Checked: 2024-07-18 | Officer: M. Singh
+
+Category: PESO Regulations
+16. Storage tank licenses renewed | Status: Compliant | Checked: 2024-03-10 | Officer: R. Sharma
+17. Safety relief valves calibrated yearly | Status: Partial (V-102 SRV calibration overdue by 1 week) | Checked: 2024-11-15 | Officer: V. Gupta
+18. Flame arrestors cleaned and inspected | Status: Compliant | Checked: 2024-08-22 | Officer: M. Singh
+
+Category: Environmental Norms
+19. Effluent treatment plant discharge limits | Status: Compliant | Checked: 2024-11-01 | Officer: Env. Eng
+20. Stack emission monitoring continuous | Status: Non-compliant (Analyzer at Stack 2 offline) | Checked: 2024-11-14 | Officer: Env. Eng

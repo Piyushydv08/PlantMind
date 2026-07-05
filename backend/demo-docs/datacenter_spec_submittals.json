@@ -1,0 +1,36 @@
+[
+  {
+    "equipment_id": "BLR-DC01-UPS-2B-04",
+    "category": "MEP - Electrical - UPS",
+    "epr_specification": {
+      "capacity_kva": 2000,
+      "topology": "Double-Conversion Online",
+      "battery_type": "Lithium-Ion (LFP)",
+      "runtime_minutes": 15,
+      "tier_compliance": "Uptime Institute Tier IV (2N+1)"
+    },
+    "vendor_submittal": {
+      "vendor_name": "Schneider Electric / Vertiv Mock Vendor",
+      "submitted_capacity_kva": 2000,
+      "submitted_battery_type": "VRLA (Lead-Acid)", 
+      "anomaly_flag": true,
+      "anomaly_reason": "Battery type deviation: VRLA submitted instead of mandatory Lithium-Ion (LFP) specified in EPR Section 26.3.2."
+    }
+  },
+  {
+    "equipment_id": "BLR-DC01-CHL-1A-01",
+    "category": "MEP - HVAC - Chiller",
+    "epr_specification": {
+      "cop": 6.8,
+      "refrigerant": "R-134a or Low GWP alternative",
+      "redundancy": "N+1 active"
+    },
+    "vendor_submittal": {
+      "vendor_name": "Carrier / Trane JV",
+      "submitted_cop": 6.1,
+      "submitted_refrigerant": "R-134a",
+      "anomaly_flag": true,
+      "anomaly_reason": "Efficiency mismatch: Submitted COP 6.1 is below the minimum COP 6.8 specified in HVAC Schedule Item 4.2."
+    }
+  }
+]

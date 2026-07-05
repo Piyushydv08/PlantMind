@@ -1,0 +1,72 @@
+STANDARD OPERATING PROCEDURE (SOP)
+Title: Centrifugal Pump Startup Procedure
+Document ID: SOP-MECH-042
+Revision: 3.0
+
+1. Purpose and Scope
+This procedure outlines the safe and correct steps for the startup of horizontal centrifugal pumps in the refinery complex. Applicable to feed pumps, transfer pumps, and reflux pumps.
+
+2. Safety Precautions
+- Personal Protective Equipment (PPE) mandatory: Hard hat, safety goggles, ear protection, FR coveralls, safety shoes, and heavy-duty gloves.
+- Ensure valid Hot Work or Cold Work permit is available if maintenance was just completed.
+- Follow Energy Isolation (Lockout-Tagout - LOTO) removal procedures before attempting startup.
+- Verify fire extinguishers and eye wash stations in the vicinity are accessible.
+
+3. Pre-startup Checks
+[ ] Verify LOTO has been officially removed and tags signed off.
+[ ] Check coupling guard is securely installed.
+[ ] Ensure all maintenance tools and debris are cleared from the area.
+[ ] Verify oil level in the bearing housing is visible at the center of the bullseye sight glass.
+[ ] Ensure mechanical seal flushing lines (Plan 11/52/53) are open and pressurized.
+[ ] Check that cooling water lines to bearing housing (if applicable) are open.
+[ ] Verify local pressure gauges are installed and valves open.
+[ ] Ensure the pump discharge valve is 100% CLOSED.
+[ ] Ensure the pump suction valve is 100% OPEN.
+[ ] Open the casing vent valve to bleed trapped air until a steady stream of fluid appears (Priming).
+[ ] Close the casing vent valve securely.
+[ ] Verify the motor is electrically racked in and ready to start from the local panel.
+[ ] Inform the DCS board operator that the pump is ready for startup.
+[ ] Ensure area is clear of non-essential personnel.
+[ ] Conduct a final visual walkaround of the skid.
+
+4. Startup Procedure
+1. Confirm with DCS operator to start the motor.
+2. Press the local START button (or have DCS start it).
+3. Immediately observe the discharge pressure gauge. It should rise to the shut-off head pressure within 3-5 seconds.
+4. Listen for any abnormal rubbing, cavitation, or rattling noises.
+5. Visually check for leaks at the casing joints, flanges, and mechanical seal.
+6. Check bearing housing temperature by hand (cautiously) or with an IR gun.
+7. If pressure does not build up, immediately press STOP and re-prime the pump.
+8. Once shut-off pressure is stable, slowly crack open the discharge valve.
+9. Gradually open the discharge valve to 100% while monitoring the motor amperage to ensure it does not exceed the rated limit.
+10. Verify flow meter (if installed) shows the expected flow rate.
+11. Monitor bearing temperatures and vibration levels for the next 15 minutes.
+12. Notify the DCS operator that the pump is online and running normally.
+
+5. Normal Operating Parameters
+- Suction pressure: 2.5 bar
+- Discharge pressure: 8.5 bar
+- Flow rate: 120 m3/hr
+- Motor current: 45A max
+- Bearing temperature: <75°C
+- Vibration (velocity): <4.5 mm/s
+
+6. Alarm and Trip Settings
+- High Vibration Alarm: 7.0 mm/s
+- High-High Vibration Trip: 9.0 mm/s
+- High Bearing Temp Alarm: 85°C
+- High-High Bearing Temp Trip: 95°C
+- Low Suction Pressure Trip: 1.0 bar
+- High Motor Amp Trip: 50A (time delayed)
+
+7. Emergency Shutdown Procedure
+In case of heavy seal leakage, visible smoke, severe vibration, or fire:
+1. Hit the local Emergency Stop (E-Stop) button immediately.
+2. Close the suction and discharge valves to isolate the pump.
+3. Alert the DCS operator and shift supervisor.
+4. If fire is present, activate the nearest manual call point.
+
+8. References
+- OISD-116: Standard for Operating Procedures in Petroleum Installations
+- Factory Act 1948, Section 36 (Precautions against dangerous fumes)
+- OEM Pump Manual (Flowserve/Goulds)

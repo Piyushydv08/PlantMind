@@ -1,0 +1,18 @@
+ANNUAL COMPLIANCE CHECKLIST - DATA CENTER HYPERSCALE
+Facility: BLR-DC01 Hyperscale Facility
+
+Category: Uptime Institute Tier IV Compliance
+1. Dual active paths for power and cooling (2N+1 architecture) | Status: Compliant | Checked: 2024-10-12 | Inspector: J. Vance
+2. Continuous cooling systems under power transition | Status: Partial (Chiller thermal storage validation pending) | Checked: 2024-11-05 | Inspector: A. Patel
+3. No single points of failure in MEP distribution paths | Status: Compliant | Checked: 2024-09-18 | Inspector: J. Vance
+4. Fuel storage capacity for 12 hours of generator operation | Status: Compliant | Checked: 2024-10-20 | Inspector: R. Sharma
+
+Category: ASHRAE TC 9.9 Thermal Guidelines
+5. Supply air temperature maintained at 18-27°C in cold aisle | Status: Compliant | Checked: 2024-11-01 | Inspector: H. Kumar
+6. Relative humidity limits within 20% to 80% non-condensing | Status: Non-compliant (Dehumidifier unit DH-02 offline at Hall B) | Checked: 2024-11-14 | Inspector: H. Kumar
+7. Dew point below 17°C to prevent electrostatic buildup | Status: Compliant | Checked: 2024-11-05 | Inspector: H. Kumar
+
+Category: NBC Fire and Life Safety Codes
+8. Double interlock pre-action sprinkler system operational | Status: Compliant | Checked: 2024-08-10 | Inspector: Fire Marshal
+9. Clean Agent Gas suppression (Novak 1230) system inspected | Status: Partial (Cylinder pressure low in Sector 3) | Checked: 2024-11-12 | Inspector: Fire Marshal
+10. Fire rating of containment walls (>2 hours) verified | Status: Compliant | Checked: 2024-03-15 | Inspector: Structural Eng

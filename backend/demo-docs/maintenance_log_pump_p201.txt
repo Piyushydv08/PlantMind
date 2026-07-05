@@ -1,0 +1,83 @@
+MAINTENANCE WORK ORDER LOG
+Equipment: P-201 (Centrifugal Feed Pump)
+Plant: Crude Distillation Unit (CDU), BPCL Mumbai Refinery
+
+WO#: 458921 | Date: 2023-01-12
+Reported by: Ramesh Kumar | Technician: S. Patel
+Symptoms: Minor seal leak noticed during routine round.
+Actions taken: Tightened gland packing. Monitored for 4 hours.
+Parts replaced: None
+Hours taken: 2.5
+Status: Closed
+
+WO#: 459104 | Date: 2023-03-15
+Reported by: System Alarm | Technician: V. Singh
+Symptoms: High bearing temperature (88°C) on DE bearing.
+Actions taken: Pump decoupled, DE bearing housing opened. Found severe pitting on bearing race. Replaced bearing. Realigned pump.
+Parts replaced: DE Bearing (SKF 7312)
+Hours taken: 8.0
+Status: Closed
+
+WO#: 460223 | Date: 2023-05-18
+Reported by: Plant Operator | Technician: K. Rao
+Symptoms: Low discharge pressure (6.5 bar).
+Actions taken: Checked suction strainer. Cleaned debris. Pressure restored to 8.5 bar.
+Parts replaced: Strainer mesh
+Hours taken: 3.0
+Status: Closed
+
+WO#: 461550 | Date: 2023-07-22
+Reported by: Inspection Team | Technician: M. Joshi
+Symptoms: Product dripping from mechanical seal, 20 drops/min.
+Actions taken: Isolated pump, drained casing. Removed and replaced mechanical seal. Pressure tested up to 10 bar.
+Parts replaced: Mechanical Seal Assembly (John Crane Type 8B1)
+Hours taken: 12.0
+Status: Closed
+
+WO#: 463991 | Date: 2023-11-05
+Reported by: Vibration Monitoring System | Technician: S. Patel
+Symptoms: Vibration approaching alarm limit (4.2 mm/s).
+Actions taken: Greased bearings, verified alignment. Condition stabilized.
+Parts replaced: Grease (Lithium complex)
+Hours taken: 2.0
+Status: Closed
+
+WO#: 465102 | Date: 2024-01-10
+Reported by: Reliability Engg | Technician: V. Singh
+Symptoms: Persistent high vibration (5.1 mm/s) at 1X RPM. Unbalance suspected.
+Actions taken: Removed rotor, sent for dynamic balancing. Reinstalled. Vibration dropped to 1.8 mm/s.
+Parts replaced: None (Balancing weights added)
+Hours taken: 16.0
+Status: Closed
+
+WO#: 466881 | Date: 2024-04-01
+Reported by: Planning Dept | Technician: Inspection Team
+Symptoms: Preventive Maintenance - Annual Overhaul (OISD-116 compliance).
+Actions taken: Complete teardown. DPT done on impeller. Clearances measured. Replaced all wear rings and bearings.
+Parts replaced: Wear rings, Bearings, Gaskets, O-rings
+Hours taken: 48.0
+Status: Closed
+
+WO#: 467905 | Date: 2024-06-15
+Reported by: Field Operator | Technician: K. Rao
+Symptoms: Abnormal noise from motor NDE side.
+Actions taken: Inspected motor cooling fan. Found loose fan cover. Tightened bolts.
+Parts replaced: None
+Hours taken: 1.5
+Status: Closed
+
+WO#: 469220 | Date: 2024-08-20
+Reported by: Operations | Technician: M. Joshi
+Symptoms: Pump unable to meet rated flow (max 95 m3/hr).
+Actions taken: Opened casing, inspected impeller. Found significant cavitation damage and impeller wear. Replaced impeller.
+Parts replaced: Impeller (SS 316)
+Hours taken: 24.0
+Status: Closed
+
+WO#: 471015 | Date: 2024-11-12
+Reported by: Ramesh Kumar | Technician: S. Patel
+Symptoms: Coupling guard loose.
+Actions taken: Secured coupling guard with new fasteners.
+Parts replaced: 4x M8 Bolts
+Hours taken: 0.5
+Status: Closed
